@@ -12,7 +12,7 @@
 
 `Prototype`
 
-*. . .*
+*The prototype it`s just a simple list with basics stuffs to deal during the day.*
 
 <h1>
     <image src="assets/img/Prototype-v1.png"/>
