@@ -22,8 +22,7 @@
 
 `v 0.0.0`
 
-
-*. . .*
+*Fews basic boxes to input texts and dates without the functions or any save changes.*
 
 <h1>
     <image src="assets/img/screen-v0.png"/>
@@ -31,4 +30,8 @@
 
 ---
 
+<h1 align="center">AUTHOR</h1>
 
+*. . .*
+
+---
